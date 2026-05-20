@@ -8,7 +8,7 @@ namespace SharedStorage
    {
       private readonly Process _process;
 
-      public StreamSharedStorage(string executablePath = "ConsoleAppFour")
+      public StreamSharedStorage(string executablePath = "ConsoleApp")
       {
          _process = new Process();
          _process.StartInfo.FileName = executablePath;
