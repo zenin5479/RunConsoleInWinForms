@@ -12,7 +12,7 @@ namespace WinFormsApp
          ComboBoxOperation.SelectedIndex = 0;
       }
 
-      private void ButtonCalculate_Click(object sender, System.EventArgs e)
+      private void ButtonCalculate_Click(object sender, EventArgs e)
       {
          LabelResult.Text = "";
          LabelError.Text = "";
