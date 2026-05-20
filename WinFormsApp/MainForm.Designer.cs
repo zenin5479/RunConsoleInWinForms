@@ -97,6 +97,7 @@
          ButtonCalculate.TabIndex = 7;
          ButtonCalculate.Text = "Вычислить";
          ButtonCalculate.UseVisualStyleBackColor = true;
+         ButtonCalculate.Click += ButtonCalculate_Click;
          // 
          // MainForm
          // 
