@@ -14,7 +14,7 @@
       <HintPath>bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll</HintPath>
     </Reference>
     <Reference Include="SharedStorage">
-      <HintPath>bin\Debug\netcoreapp3.1\SharedStorage.dll</HintPath>
+      <HintPath>..\WinFormsApp\bin\Debug\netcoreapp3.1\SharedStorage.dll</HintPath>
     </Reference>
   </ItemGroup>
 
