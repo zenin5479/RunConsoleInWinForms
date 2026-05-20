@@ -1,6 +1,6 @@
-﻿using System;
-using Newtonsoft.Json;
+﻿using Newtonsoft.Json;
 using SharedStorage;
+using System;
 
 namespace ConsoleApp
 {
