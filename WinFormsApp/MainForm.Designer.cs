@@ -79,21 +79,21 @@
          ComboBoxOperation.Items.AddRange(new object[] { "Sum", "Multiply", "Average" });
          ComboBoxOperation.Location = new System.Drawing.Point(76, 41);
          ComboBoxOperation.Name = "ComboBoxOperation";
-         ComboBoxOperation.Size = new System.Drawing.Size(133, 23);
+         ComboBoxOperation.Size = new System.Drawing.Size(146, 23);
          ComboBoxOperation.TabIndex = 9;
          // 
          // TextBoxNumbers
          // 
          TextBoxNumbers.Location = new System.Drawing.Point(59, 12);
          TextBoxNumbers.Name = "TextBoxNumbers";
-         TextBoxNumbers.Size = new System.Drawing.Size(150, 23);
+         TextBoxNumbers.Size = new System.Drawing.Size(163, 23);
          TextBoxNumbers.TabIndex = 8;
          // 
          // ButtonCalculate
          // 
-         ButtonCalculate.Location = new System.Drawing.Point(12, 100);
+         ButtonCalculate.Location = new System.Drawing.Point(12, 159);
          ButtonCalculate.Name = "ButtonCalculate";
-         ButtonCalculate.Size = new System.Drawing.Size(197, 30);
+         ButtonCalculate.Size = new System.Drawing.Size(210, 30);
          ButtonCalculate.TabIndex = 7;
          ButtonCalculate.Text = "Вычислить";
          ButtonCalculate.UseVisualStyleBackColor = true;
