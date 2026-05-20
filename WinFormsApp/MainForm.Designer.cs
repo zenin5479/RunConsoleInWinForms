@@ -40,7 +40,7 @@
          // LabelActions
          // 
          LabelActions.AutoSize = true;
-         LabelActions.Location = new System.Drawing.Point(194, 119);
+         LabelActions.Location = new System.Drawing.Point(12, 44);
          LabelActions.Name = "LabelActions";
          LabelActions.Size = new System.Drawing.Size(58, 15);
          LabelActions.TabIndex = 13;
@@ -49,7 +49,7 @@
          // LabelNumbers
          // 
          LabelNumbers.AutoSize = true;
-         LabelNumbers.Location = new System.Drawing.Point(194, 90);
+         LabelNumbers.Location = new System.Drawing.Point(12, 15);
          LabelNumbers.Name = "LabelNumbers";
          LabelNumbers.Size = new System.Drawing.Size(41, 15);
          LabelNumbers.TabIndex = 12;
@@ -58,7 +58,7 @@
          // LabelError
          // 
          LabelError.AutoSize = true;
-         LabelError.Location = new System.Drawing.Point(194, 157);
+         LabelError.Location = new System.Drawing.Point(12, 82);
          LabelError.Name = "LabelError";
          LabelError.Size = new System.Drawing.Size(59, 15);
          LabelError.TabIndex = 11;
@@ -67,7 +67,7 @@
          // LabelResult
          // 
          LabelResult.AutoSize = true;
-         LabelResult.Location = new System.Drawing.Point(194, 142);
+         LabelResult.Location = new System.Drawing.Point(12, 67);
          LabelResult.Name = "LabelResult";
          LabelResult.Size = new System.Drawing.Size(66, 15);
          LabelResult.TabIndex = 10;
@@ -77,21 +77,21 @@
          // 
          ComboBoxOperation.FormattingEnabled = true;
          ComboBoxOperation.Items.AddRange(new object[] { "Sum", "Multiply", "Average" });
-         ComboBoxOperation.Location = new System.Drawing.Point(258, 116);
+         ComboBoxOperation.Location = new System.Drawing.Point(76, 41);
          ComboBoxOperation.Name = "ComboBoxOperation";
          ComboBoxOperation.Size = new System.Drawing.Size(133, 23);
          ComboBoxOperation.TabIndex = 9;
          // 
          // TextBoxNumbers
          // 
-         TextBoxNumbers.Location = new System.Drawing.Point(241, 87);
+         TextBoxNumbers.Location = new System.Drawing.Point(59, 12);
          TextBoxNumbers.Name = "TextBoxNumbers";
          TextBoxNumbers.Size = new System.Drawing.Size(150, 23);
          TextBoxNumbers.TabIndex = 8;
          // 
          // ButtonCalculate
          // 
-         ButtonCalculate.Location = new System.Drawing.Point(194, 243);
+         ButtonCalculate.Location = new System.Drawing.Point(12, 100);
          ButtonCalculate.Name = "ButtonCalculate";
          ButtonCalculate.Size = new System.Drawing.Size(197, 30);
          ButtonCalculate.TabIndex = 7;
