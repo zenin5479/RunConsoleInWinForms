@@ -7,6 +7,7 @@ namespace WinFormsApp
       public MainForm()
       {
          InitializeComponent();
+         ComboBoxOperation.SelectedIndex = 0;
       }
    }
 }
