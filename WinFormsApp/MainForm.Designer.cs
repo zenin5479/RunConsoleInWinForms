@@ -30,13 +30,13 @@
       {
          SuspendLayout();
          // 
-         // Form1
+         // MainForm
          // 
          AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
          AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
          ClientSize = new System.Drawing.Size(584, 361);
-         Name = "Form1";
-         Text = "Form1";
+         Name = "MainForm";
+         Text = "Система обмена данными";
          ResumeLayout(false);
       }
 
