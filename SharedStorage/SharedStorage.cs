@@ -2,7 +2,7 @@
 
 namespace SharedStorage
 {
-   public class Class1
+   public class SharedStorage
    {
 
    }
