@@ -37,7 +37,7 @@ namespace WinFormsApp
 
          try
          {
-            using (StreamSharedStorage storage = new StreamSharedStorage("ConsoleAppFour.exe"))
+            using (StreamSharedStorage storage = new StreamSharedStorage("ConsoleApp.exe"))
             {
                CalculationResponse response = storage.SendRequest(request);
 
