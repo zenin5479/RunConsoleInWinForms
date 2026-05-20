@@ -9,6 +9,9 @@
     <Reference Include="Newtonsoft.Json">
       <HintPath>bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll</HintPath>
     </Reference>
+    <Reference Include="SharedStorage">
+      <HintPath>bin\Debug\netcoreapp3.1\SharedStorage.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
