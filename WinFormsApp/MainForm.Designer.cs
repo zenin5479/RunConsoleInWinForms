@@ -36,6 +36,7 @@
          AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
          ClientSize = new System.Drawing.Size(584, 361);
          MaximizeBox = false;
+         MinimizeBox = false;
          Name = "MainForm";
          StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
          Text = "Система обмена данными";
